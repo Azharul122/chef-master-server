@@ -4,7 +4,7 @@
         "ispular":false,
         "reciepieId":"55",
         "reciepeName":"Mutton Curry with Potatoes",
-        "ingredients":["Mutton","Potatoes","Extra virgin oil","tomatos",""],
+        "ingredients":["Mutton","Potatoes","Extra virgin oil","1/2 tsp salt","1 tsp garlic paste"],
         "cookingMethod":"This mutton curry is very traditional in every home of Bangladesh. This village-style recipe consists of very common spices avoiding use of a lot of spices for easy and fast cooking.",
         "rating":5,
         "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2020/02/khasir-mangsho-alu-diye-mutton-curry-800x475.jpg"
@@ -44,7 +44,7 @@
         "reciepieId":"2",
         "ispular":false,
         "reciepeName":"Mutton Curry with Potatoes",
-        "ingredients":["Mutton","Potatoes","Extra virgin oil","tomatos",""],
+        "ingredients":["2 regular size boneless chicken breasts, washed and finely chopped"," tbsp ginger paste","1 tsp garlic paste","1/2 tsp garam masala powder","1/2 tsp salt"],
         "cookingMethod":"This mutton curry is very traditional in every home of Bangladesh. This village-style recipe consists of very common spices avoiding use of a lot of spices for easy and fast cooking.",
         "rating":5,
         "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2020/02/khasir-mangsho-alu-diye-mutton-curry-800x475.jpg"
@@ -84,7 +84,7 @@
         "reciepieId":"7",
         "ispular":false,
         "reciepeName":"Mutton Curry with Potatoes",
-        "ingredients":["Mutton","Potatoes","Extra virgin oil","tomatos",""],
+        "ingredients":["2 regular size boneless chicken breasts, washed and finely chopped"," tbsp ginger paste","1 tsp garlic paste","1/2 tsp garam masala powder","1/2 tsp salt"],
         "cookingMethod":"This mutton curry is very traditional in every home of Bangladesh. This village-style recipe consists of very common spices avoiding use of a lot of spices for easy and fast cooking.",
         "rating":5,
         "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2020/02/khasir-mangsho-alu-diye-mutton-curry-800x475.jpg"
@@ -124,7 +124,7 @@
         "reciepieId":"11",
         "ispular":false,
         "reciepeName":"Mutton Curry with Potatoes",
-        "ingredients":["Mutton","Potatoes","Extra virgin oil","tomatos",""],
+        "ingredients":["Chicken 100 grams. A whole chicken cut up into 8-10 pieces will work gret"," 1/2 cup mustard oil","4 bay leaves","1/2 tsp salt","4-6 dried red chilies"],
         "cookingMethod":"This mutton curry is very traditional in every home of Bangladesh. This village-style recipe consists of very common spices avoiding use of a lot of spices for easy and fast cooking.",
         "rating":5,
         "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/garliccabbage-800x475.png"
@@ -164,7 +164,7 @@
         "reciepieId":"15",
         "ispular":false,
         "reciepeName":"Mutton Curry with Potatoes",
-        "ingredients":["Mutton","Potatoes","Extra virgin oil","tomatos",""],
+        "ingredients":["2 regular size boneless chicken breasts, washed and finely chopped"," tbsp ginger paste","1 tsp garlic paste","1/2 tsp garam masala powder","1/2 tsp salt"],
         "cookingMethod":"This mutton curry is very traditional in every home of Bangladesh. This village-style recipe consists of very common spices avoiding use of a lot of spices for easy and fast cooking.",
         "rating":5,
         "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/KataMoshlarMangsho-800x475.png"
@@ -205,7 +205,7 @@
         "reciepieId":"19",
         "ispular":true,
         "reciepeName":"Mutton Curry with Potatoes",
-        "ingredients":["Mutton","Potatoes","Extra virgin oil","tomatos",""],
+        "ingredients":["2 regular size boneless chicken breasts, washed and finely chopped"," tbsp ginger paste","1 tsp garlic paste","1/2 tsp garam masala powder","1/2 tsp salt"],
         "cookingMethod":"This mutton curry is very traditional in every home of Bangladesh. This village-style recipe consists of very common spices avoiding use of a lot of spices for easy and fast cooking.",
         "rating":5,
         "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2010/02/fishyogurtsauce.jpg"
@@ -245,7 +245,7 @@
         "reciepieId":"23",
         "ispular":false,
         "reciepeName":"Mutton Curry with Potatoes",
-        "ingredients":["Mutton","Potatoes","Extra virgin oil","tomatos",""],
+        "ingredients":["2 regular size boneless chicken breasts, washed and finely chopped"," tbsp ginger paste","1 tsp garlic paste","1/2 tsp garam masala powder","1/2 tsp salt"],
         "cookingMethod":"This mutton curry is very traditional in every home of Bangladesh. This village-style recipe consists of very common spices avoiding use of a lot of spices for easy and fast cooking.",
         "rating":5,
         "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2020/02/khasir-mangsho-alu-diye-mutton-curry-800x475.jpg"
@@ -271,6 +271,15 @@
         "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2014/11/image-1200x715.jpg"
     },
     {
+        "chefId":6,
+        "reciepieId":"26",
+        "reciepeName":"Spicy Dry Chicken – Kosha Murgir Mangsho",
+        "ingredients":["Chicken 100 grams. A whole chicken cut up into 8-10 pieces will work gret"," 1/2 cup mustard oil","4 bay leaves","1/2 tsp salt","4-6 dried red chilies"],
+        "cookingMethod":"This may just be the tastiest chicken dish I’ve ever cooked. Yes, this is high praise, even if I’m saying it myself. Kosha is a semi-dry curry, where the chicken is cooked slowly with the spices over a long period of time. I consider this manual slow cooking. While labor intensive",
+        "rating":4.6,
+        "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2009/07/okra.jpg"
+    },
+    {
         "chefId":7,
         "reciepieId":"26",
         "reciepeName":"Spicy Dry Chicken – Kosha Murgir Mangsho",
@@ -284,7 +293,7 @@
         "reciepieId":"27",
         "ispular":true,
         "reciepeName":"Mutton Curry with Potatoes",
-        "ingredients":["Mutton","Potatoes","Extra virgin oil","tomatos",""],
+        "ingredients":["2 regular size boneless chicken breasts, washed and finely chopped"," tbsp ginger paste","1 tsp garlic paste","1/2 tsp garam masala powder","1/2 tsp salt"],
         "cookingMethod":"This mutton curry is very traditional in every home of Bangladesh. This village-style recipe consists of very common spices avoiding use of a lot of spices for easy and fast cooking.",
         "rating":5,
         "photo":"https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/TikiyaKabab1-800x475.png"

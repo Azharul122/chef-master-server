@@ -5,6 +5,7 @@
         "chefId":1,
         "numberOfreciepe":4,
         "likes":120,
+        "sortBio":"marsal was born in San Pedro, Buenos Aires, Argentina. Journalist and lawyer, passionate about sports and cooking. Cooking is her therapy, putting on music, pouring herself a glass of wine and starting to create with what she finds in her fridge. Mother of five children who are eager to try new dishes every day",
         "chefPhoto":"https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -13,6 +14,7 @@
         "chefId":2,
         "numberOfreciepe":4,
         "likes":120,
+        "sortBio":"eroma Stupar is a passionate chef with a culinary career that spans over 10 years. Razvan has worked as a chef for a number of fine dining restaurants in Europe, and also owned his own bistro and catering business.",
         "chefPhoto":"https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     
     },
@@ -22,6 +24,7 @@
         "chefId":3,
         "numberOfreciepe":4,
         "likes":456,
+        "sortBio":"Born in Bern, Switzerland, Thomas followed in the footsteps of his mother and entered a three-year cooking apprenticeship program and graduating it at the age of 20. Working a few short stints in a winter ski resort and a city hotel in Basel/Switzerland during the following years he took the opportunity to work in New York in 1986.",
         "chefPhoto":"https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
     },
@@ -31,6 +34,7 @@
         "chefId":4,
         "numberOfreciepe":4,
         "likes":3545,
+        "sortBio":"marathon is a personal Chef to exclusive Sydney clients and is also our most frequently contributing writer. Paul was born in The Netherlands and moved to Canada at a very young age.",
         "chefPhoto":"https://images.pexels.com/photos/3338536/pexels-photo-3338536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   
     },
@@ -40,6 +44,7 @@
         "chefId":5,
         "numberOfreciepe":4,
         "likes":345,
+        "sortBio":"resal was born in Canada, raised by Portuguese parents, and has lived in Southern Africa for the past 15 years. She loves everything arts and culture, with special interest in dance, music, food, languages, and travel.",
         "chefPhoto":"https://images.pexels.com/photos/916416/pexels-photo-916416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
     },
@@ -49,6 +54,7 @@
         "chefId":6,
         "numberOfreciepe":4,
         "likes":352,
+        "sortBio":"neiji Born in the state of Chihuahua, Mexico in 1989, Griselda is a Chef and writer. She has a degree in gastronomy from the ECI University of Gastronomy, Guadalajara, and she is a passionate cook.",
         "chefPhoto":"https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=600"
    
     }, {
@@ -57,6 +63,7 @@
         "chefId":7,
         "numberOfreciepe":4,
         "likes":120,
+        "sortBio":"halton Fontilla is a freelance writer based in the City of Bacoor, Philippines. Ayesha holds a B.A. in Communications and Advertising, and has worked as a copywriter for two of Philippines' largest advertising companies - McCann and TBWA. She is crazy about cooking, baking and her adorable cat.",
         "chefPhoto":"https://images.pexels.com/photos/4252136/pexels-photo-4252136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
     },
@@ -66,6 +73,7 @@
         "chefId":8,
         "numberOfreciepe":4,
         "likes":456,
+        "sortBio":"detal kim has a passion for healthy living and exercise. She has a certificate in plant-based nutrition from eCornell and loves nature. She also loves reading, good coffee and exploring new places.",
         "chefPhoto":"https://images.pexels.com/photos/14811401/pexels-photo-14811401.jpeg?auto=compress&cs=tinysrgb&w=600"
    
     }
